@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu/GamesMenu.unity
+    guid: ca42d7a954babd445859b9d12ea67e68
+  - enabled: 1
+    path: Assets/Scenes/ConnectDot/ConnectDotsLevelSelection.unity
+    guid: 6aeb76a1ae4d7ae4ca39719a1d82052b
+  - enabled: 1
+    path: Assets/Scenes/ConnectDot/DotLevel1.unity
+    guid: 5fdd3a6c146f35343b404fefa6231178
+  - enabled: 1
+    path: Assets/Scenes/ConnectDot/DotLevel2.unity
+    guid: 0f2546a37342c364fa1c04f05c78abdb
+  - enabled: 1
+    path: Assets/Scenes/ConnectDot/DotLevel3.unity
+    guid: 1a7f4917293f56740a009beda2be97df
+  - enabled: 1
+    path: Assets/Scenes/ConnectDot/DotLevel4.unity
+    guid: 1740dddec9d5ab14f8943cf02383661d
+  - enabled: 0
+    path: Assets/Scenes/ConnectDot/DotLevel5.unity
+    guid: 3309631ae1afc6348ab4855a3cc1cad3
+  - enabled: 0
+    path: Assets/Scenes/ConnectDot/DotLevel6.unity
+    guid: 9810575dbb1ba13448d6f27562a05d43
+  - enabled: 0
+    path: Assets/Scenes/ConnectDot/DotLevel7.unity
+    guid: fb635facb8dc3fd4b91fd486a9b8b4ee
+  - enabled: 0
+    path: Assets/Scenes/ConnectDot/DotLevel8.unity
+    guid: e875225286af9e74d9de31c4251c8bd4
+  - enabled: 0
+    path: Assets/Scenes/ConnectDot/DotLevel9.unity
+    guid: d35bc94ab3c706c48a5e159ab8075246
+  - enabled: 0
+    path: Assets/Scenes/ConnectDot/DotLevel10.unity
+    guid: ea9e6de817a78ce489c6026102aba8cd
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigSelector.unity
+    guid: f93d73de18d18ae4588f7c9491c28b1c
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel1.unity
+    guid: 13a0cfa7d95b3a947a2c554ddaf8ba41
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel2.unity
+    guid: 272a7bc3a85fc474984c3f3bc700e68c
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel3.unity
+    guid: f667a01623db3ad42bee46918f537f55
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel4.unity
+    guid: b4c2622a30bd51547a53bb46c3ba340f
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel5.unity
+    guid: 3534efdf4d5ac874b9354035d3c9a412
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel6.unity
+    guid: 060ad74ad23e9bb47b3812cf6e763cd9
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel7.unity
+    guid: fee2a3b9ac0aa4840b20e3845b207345
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel8.unity
+    guid: 4fc21e0f182fdcb42a453df63ea58419
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel9.unity
+    guid: de4fbd9e378771448b50b9fc39e9aea4
+  - enabled: 1
+    path: Assets/Scenes/JigsawPuzzle/JigLevel10.unity
+    guid: 643516a978083b446a1276dde46b5c2d
+  - enabled: 1
+    path: Assets/Scenes/MatchingGame/MatchSelector.unity
+    guid: b3268e85a0649ba40b39dc0e3a1210d5
+  - enabled: 1
+    path: Assets/Scenes/MatchingGame/Match1.unity
+    guid: 763ad04783ccd6a4abbcd8a23c1d06f9
+  - enabled: 1
+    path: Assets/Scenes/MatchingGame/Match2.unity
+    guid: e7cd698c67914074ba184a13c31e446e
+  - enabled: 1
+    path: Assets/Scenes/MatchingGame/Match3.unity
+    guid: 9177fef82e2668e469c3f2b00a9717fb
+  - enabled: 1
+    path: Assets/Scenes/MatchingGame/Match4.unity
+    guid: 351a149b0c9312440b689c63140b4e90
+  - enabled: 0
+    path: Assets/Scenes/MatchingGame/Match5.unity
+    guid: 1f90ddbacca8a84488f698975db9988c
+  - enabled: 0
+    path: Assets/Scenes/MatchingGame/Match6.unity
+    guid: 7ce81c03f66c4db4b89937de9976dd3c
+  - enabled: 0
+    path: Assets/Scenes/MatchingGame/Match7.unity
+    guid: 1f0d1661cfcbceb4fb09e311a723768e
+  - enabled: 0
+    path: Assets/Scenes/MatchingGame/Match8.unity
+    guid: 02971bfca0ad74645ae62b600f577453
+  - enabled: 0
+    path: Assets/Scenes/MatchingGame/Match9.unity
+    guid: eb1743b14453c064cbf9165d4c2db5dd
+  - enabled: 0
+    path: Assets/Scenes/MatchingGame/Match10.unity
+    guid: 4fab8b26e8ee42541b2c5073f5b79a1c
+  - enabled: 1
+    path: Assets/Scenes/ColoringBook/PaintSelect.unity
+    guid: d1236b5d41f474b43a318a3b558dcf4b
+  - enabled: 1
+    path: Assets/Scenes/ColoringBook/Paint1.unity
+    guid: 8c58ed6a685fd034d9244f51dff88b9a
+  - enabled: 1
+    path: Assets/Scenes/ColoringBook/Paint2.unity
+    guid: 0c129551c4be5904f8aa6f8bd28ded74
+  - enabled: 1
+    path: Assets/Scenes/ColoringBook/Paint3.unity
+    guid: dca6ba97f648a684e80c3bb3ad13a69b
+  - enabled: 1
+    path: Assets/Scenes/ColoringBook/Paint4.unity
+    guid: c2f0bead37d9a97498a00adb95e0bf2d
+  m_configObjects: {}
